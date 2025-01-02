@@ -21,9 +21,6 @@ Dataset awal memiliki **111 fitur numerik**, yang direduksi menjadi **15 kompone
 
 Makalah ini juga membandingkan performa model machine learning yang dilatih menggunakan dataset asli dan dataset hasil reduksi.
 
-## Struktur Proyek
-
-
 ## Teknologi yang Digunakan
 
 - **Python 3.12**  
