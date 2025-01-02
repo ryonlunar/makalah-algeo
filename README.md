@@ -17,7 +17,7 @@ Dalam penelitian ini, PCA diterapkan menggunakan dua pendekatan utama:
 
 Dataset awal memiliki **111 fitur numerik**, yang direduksi menjadi **15 komponen utama**. Hasil percobaan menunjukkan:
 - **Peningkatan efisiensi waktu komputasi sebesar 12,9%.**
-- **Penurunan akurasi prediksi sebesar 0,22%.**
+- **Peningkatan kesalahan prediksi sebesar 0,22%.**
 
 Makalah ini juga membandingkan performa model machine learning yang dilatih menggunakan dataset asli dan dataset hasil reduksi.
 
